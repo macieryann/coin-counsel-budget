@@ -1,4 +1,4 @@
-package com.github.macieryann.common;
+package com.github.macieryann.coincounselbudget.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

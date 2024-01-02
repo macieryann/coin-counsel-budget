@@ -1,6 +1,6 @@
 package com.github.macieryann.coincounselbudget.service.common;
 
-import com.github.macieryann.common.StatusCode;
+import com.github.macieryann.coincounselbudget.common.StatusCode;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

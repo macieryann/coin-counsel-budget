@@ -2,7 +2,8 @@ package com.github.macieryann.coincounselbudget.service;
 
 import com.github.macieryann.coincounselbudget.dao.CategoryDao;
 import com.github.macieryann.coincounselbudget.entity.CategoryEntity;
-import com.github.macieryann.service.common.CrudService;
+
+import com.github.macieryann.coincounselbudget.service.common.CrudService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
