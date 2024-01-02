@@ -4,6 +4,11 @@
 - Connect to a postgres database
 - Set up Open API / Swagger UI
 ## Backend Requirements v0.2
+### Budget Categories:
+- Create a new budget category
+- Retrieve a list of all budget categories
+- Update budget category details
+- Delete a budget category
 ### Expense Management:
 - Create a new expense
 - Retrieve a list of all expenses for a user
